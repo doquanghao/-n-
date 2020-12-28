@@ -1,0 +1,4 @@
+1234#đỗ quang hào#nam#12/02/2001#bếp#bếp trưởng#bếp#nhân viên#0964396091#12/02/2020
+1236#nguyễn văn nam#nam#12/02/2001#hưng yên#bếp phó#bếp#nhân viên#0964396092#12/02/2020
+1237#nguyễn văn hòa#nam#13/04/2003#hưng yên #phụ bếp#bếp#nhân viên#0964396095#12/02/2001
+nv04#hoàng văn dại#nam#12/10/2000#hà nội#nhân viên#tiền sảnh#nhân viên#0964396099#12/02/2020
